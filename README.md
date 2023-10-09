@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **I’m currently learning Data Preprocessing, Machine Leaning, Deep Learning and NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dipankar-Ghosh-in](https://github.com/Dipankar-Ghosh-in)
+- 👨‍💻 All of my projects are available at [https://github.com/Dipankar-Ghosh-in](https://github.com/dipankarghosh8)
 
 - 💬 Ask me about **Data science and Software Development**
 
